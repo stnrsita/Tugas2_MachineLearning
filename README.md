@@ -22,7 +22,7 @@ Dataset ini terdiri dari tiga kolom: `number_courses`, `time_study`, dan `Marks`
 Dataset ini dapat digunakan untuk menganalisis hubungan antara jumlah kursus, waktu belajar, dan prestasi akademik siswa. Misalnya, Anda dapat menjelajahi apakah ada hubungan antara jumlah kursus yang diambil dan prestasi akademik, atau apakah ada pola yang dapat ditemukan dalam waktu belajar dan prestasi akademik siswa. Analisis semacam itu dapat memberikan wawasan yang berharga bagi pendidik dan pengambil keputusan pendidikan untuk meningkatkan kualitas pembelajaran dan hasil akademik siswa.
 
 
-## Cara Menjalankan Source Code
+# Cara Menjalankan Source Code
 1. Download file .ipynb dan dataset atau clone repository
 2. Install library dengan: python3 pip install -r requirement.txt
 3. Input dataset ke dalam halaman .ipynb sesuai dengan kebutuhan, di mana dataset:
